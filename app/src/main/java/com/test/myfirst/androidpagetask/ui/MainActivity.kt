@@ -1,4 +1,4 @@
-package com.test.myfirst.androidpagetask.ui.itemsList
+package com.test.myfirst.androidpagetask.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
