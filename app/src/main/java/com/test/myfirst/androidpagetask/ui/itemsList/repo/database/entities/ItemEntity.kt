@@ -7,5 +7,7 @@ import androidx.room.PrimaryKey
 data class ItemEntity(
     @PrimaryKey(autoGenerate = true) var id: Int? = null,
     val title: String,
-    val sorting_order: Int?
+    val sorting_order: Int?,
+    val lock_status : Int?
+
 )
