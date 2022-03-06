@@ -1,9 +1,10 @@
-package com.test.myfirst.androidpagetask
+package com.test.myfirst.androidpagetask.ui.itemsList
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.test.myfirst.androidpagetask.R
 
 class MainActivity : AppCompatActivity() {
 
